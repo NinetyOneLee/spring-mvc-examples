@@ -24,6 +24,3 @@ nbbuild/
 dist/
 nbdist/
 .nb-gradle/
-将删除 .gitignore
-将删除 pom.xml
-将删除 src/
